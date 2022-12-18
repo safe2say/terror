@@ -1,3 +1,3 @@
-module github.com/ninja-software/terror/v2
+module github.com/safe2say/terror/v2
 
 go 1.16

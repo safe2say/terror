@@ -12,7 +12,7 @@ v2 introduce callbacks for various error level, warn/error/panic, removed `.New(
 
 ### Install
 
-`go get github.com/ninja-software/terror/v2`
+`go get github.com/safe2say/terror/v2`
 
 ### Usage
 
@@ -24,7 +24,7 @@ package main
 import (
 	"net/http"
 
-	"github.com/ninja-software/terror/v2"
+	"github.com/safe2say/terror/v2"
 )
 
 func getSite() error {

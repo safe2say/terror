@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/ninja-software/terror/v2"
+	"github.com/safe2say/terror/v2"
 )
 
 // example of warn

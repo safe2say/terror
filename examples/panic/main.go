@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/ninja-software/terror/v2"
+	"github.com/safe2say/terror/v2"
 )
 
 // example of panic
